@@ -1,12 +1,11 @@
-## Hi there 👋
+## Color Hub 👋
 
-<!--
+We are developing cool mobile applications.
 
-**Here are some ideas to get you started:**
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+### Our principles:
+- Cross-platform.
+- Minimalism.
+- No bad ads.
+
+Download our last application Purple Diary on [Android](https://play.google.com/store/apps/details?id=orange.id.orangediary), [iOS](https://apps.apple.com/us/app/purple-diary/id1591910683), [macOS](https://apps.apple.com/us/app/purple-diary/id1591910683), [Wear OS](https://play.google.com/store/apps/details?id=orange.id.orangediary) or check it on [web](http://diary.colorhub.online/).
