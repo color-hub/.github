@@ -1,4 +1,4 @@
-## Color Hub 👋
+## Color Hub
 
 We are developing cool mobile applications.
 
