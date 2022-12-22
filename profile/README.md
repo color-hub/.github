@@ -10,10 +10,17 @@ Thank you for visiting our repository. We hope you enjoy our work and we look fo
 
 Download our last application Purple Diary on [Android](https://play.google.com/store/apps/details?id=orange.id.orangediary), [iOS](https://apps.apple.com/us/app/purple-diary/id1591910683), [macOS](https://apps.apple.com/us/app/purple-diary/id1591910683), [Wear OS](https://play.google.com/store/apps/details?id=orange.id.orangediary) or check it on [web](http://diary.colorhub.online/).
 
+## Versioning
+
+#### major.minor.patch (ex. 1.2.3)
+
+- Increment Major version when new features are added in a way that significantly changes how the product looks and operates from the point of view of the user. Often used for massive UI/UX updates
+- Increment Minor version when new features are added, but without changing the core concept or fundamentals of the product.
+- Increment Patch version when you ship releases containing bug fixes for existing features.
 
 ## Changelog guideline
 
-    ## Х.Х.Х [DATE]
-    - Added 
-    - Changed 
-    - Fixed 
+    ## X.Y.Z [DATE]
+    - Added
+    - Changed
+    - Fixed
