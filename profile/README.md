@@ -28,3 +28,4 @@ Thank you for visiting our repository. We hope you enjoy our work and we look fo
     - Added
     - Changed
     - Fixed
+    - Removed
