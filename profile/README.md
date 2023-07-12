@@ -1,12 +1,12 @@
 ## Color Hub
 
-Welcome to the official repository for Color Hub, a mobile app development organization that specializes in creating beautiful and user-friendly apps using the Flutter framework.
+Welcome to the official repository for Color Hub, a collection of mobile apps developed by Luka Katsadze. I specialize in creating beautiful and user-friendly apps using the Flutter framework.
 
-Our team is dedicated to delivering high-quality and engaging mobile experiences to our users. We have developed several apps, including Purple Diary and Green Lists.
+My dedication is to deliver high-quality and engaging mobile experiences to users. I have developed several apps under the name Color Hub, including Purple Diary and Green Lists.
 
-Our goal is to continue pushing the boundaries of what's possible with Flutter and mobile app development. We are constantly experimenting with new ideas and features to improve our apps and provide the best experience for our users.
+My goal is to continuously push the boundaries of what's possible with Flutter and mobile app development. I am constantly experimenting with new ideas and features to improve my apps and provide the best experience for users.
 
-Thank you for visiting our repository. We hope you enjoy our work and we look forward to your feedback and contributions.
+Thank you for visiting the Color Hub repository. I hope you enjoy my work, and I look forward to your feedback and contributions.
 
 ## Apps
 
