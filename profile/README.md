@@ -14,7 +14,7 @@ Thank you for visiting the Color Hub repository. I hope you enjoy my work, and I
 
 - Green Lists. Download for [Android](https://play.google.com/store/apps/details?id=online.colorhub.lists), [iOS](https://apps.apple.com/us/app/green-lists/id1594429610), [Wear OS](https://play.google.com/store/apps/details?id=online.colorhub.lists) or check it on [web](http://lists.colorhub.online/).
 
-- Quote Flow. Download for [Android](https://play.google.com/store/apps/details?id=online.colorhub.quotes).
+- Quote Flow. Download for [Android](https://play.google.com/store/apps/details?id=online.colorhub.quotes) and [iOS](https://apps.apple.com/ru/app/quote-flow-quotes-maker/id6450869709).
 
 ## Versioning
 
